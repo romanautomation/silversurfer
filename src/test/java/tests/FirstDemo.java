@@ -16,7 +16,7 @@ public class FirstDemo {
 		int a=10;
 		int b=20;
 		System.out.println("FirstDemo");
-		Assert.assertEquals(30, a+b);
+		Assert.assertEquals(40, a+b);
 		
 	}
 	
