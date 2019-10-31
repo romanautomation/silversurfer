@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2019-10-31T06:42:45Z" finished-at="2019-10-31T06:42:45Z">
+    <groups>
+      <group name="smoke">
+        <method signature="FirstDemo.sum()[pri:0, instance:tests.FirstDemo@4e04a765]" name="sum" class="tests.FirstDemo"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2019-10-31T06:42:45Z" finished-at="2019-10-31T06:42:45Z">
+      <class name="tests.FirstDemo">
+        <test-method status="PASS" signature="sum()[pri:0, instance:tests.FirstDemo@4e04a765]" name="sum" duration-ms="15" started-at="2019-10-31T06:42:45Z" finished-at="2019-10-31T06:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- tests.FirstDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
