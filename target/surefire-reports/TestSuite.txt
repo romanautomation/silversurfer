@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.9 s <<< FAILURE! - in TestSuite
-sum(tests.FirstDemo)  Time elapsed: 0.016 s  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.509 s <<< FAILURE! - in TestSuite
+sum(tests.FirstDemo)  Time elapsed: 0.032 s  <<< FAILURE!
 java.lang.AssertionError: expected [30] but found [40]
 	at tests.FirstDemo.sum(FirstDemo.java:19)
 
